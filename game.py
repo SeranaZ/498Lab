@@ -24,6 +24,8 @@ def main():
         else:
             print("Wrong!")
 
+        now its broken #added a line to break code
+
     print(f"Your final score is {score} out of {len(questions)}")
 
 if __name__ == "__main__":
